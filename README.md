@@ -14,4 +14,4 @@ Welcome to the Noor_LLM Projects repository! This repository will host various p
      - Fine-tunes a BERT model on a subset of the IMDb dataset.
      - Includes scripts for training and evaluation.
      - Easily extensible for other datasets and transformer models.
-   - [GitHub Link](https://github.com/yourusername/transformers-text-classification)  <!-- Replace with actual link once created -->
+   - [GitHub Link](https://github.com/noorcs39/transformers-text-classification)  <!-- Replace with actual link once created -->
