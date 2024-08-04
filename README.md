@@ -19,3 +19,7 @@ Welcome to the Noor_LLM Projects repository! This repository will host various p
 3. **Simple Prompts Practices**
    - I have performed various practices, this is one of them.
    - [GitHub Link](https://github.com/noorcs39/Noor_Prompt_Practice)  <!-- Replace with actual link once created -->
+     
+4. **NetFault_LLM**
+   - NetFault_LLM is a tool designed to analyze broadband network data to identify potential faults for customers based on predefined fault conditions. The analysis evaluates various network performance metrics and categorizes the severity of any issues found, providing a fault summary and resolution steps using the LLaMA model.
+   - [GitHub Link](https://github.com/noorcs39/NetFault_LLM)  <!-- Replace with actual link once created -->
