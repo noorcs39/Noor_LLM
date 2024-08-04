@@ -15,3 +15,7 @@ Welcome to the Noor_LLM Projects repository! This repository will host various p
      - Includes scripts for training and evaluation.
      - Easily extensible for other datasets and transformer models.
    - [GitHub Link](https://github.com/noorcs39/Text-Classification-with-Transformers)  <!-- Replace with actual link once created -->
+
+3. **Simple Prompts Practices**
+   - I have performed various practices, this is one of them.
+   - [GitHub Link](https://github.com/noorcs39/Noor_Prompt_Practice)  <!-- Replace with actual link once created -->
